@@ -6,6 +6,7 @@ A Streamlit-based web application for managing tender opportunities.
 It allows companies to register, view their profiles, scrape tenders from the Government e-Marketplace (GeM), and find tenders that best match their previous work experience.
 
 🔥 Features
+
     User Management:
     
     Create new users with company details.
@@ -42,6 +43,7 @@ Tender Search:
     └── README.md                  # Project documentation (this file)
 
 🛠️ Installation
+
     Clone the repository:
     
     git clone https://github.com/GiriPrasath1608/Government-Tender-Tracker-.git
@@ -75,6 +77,7 @@ Run the app:
     Browse through all tenders or search based on Bid Number or Department.
 
 📋 Requirements
+
     Python 3.8+
     
     Google Chrome Browser
@@ -82,6 +85,7 @@ Run the app:
     ChromeDriver (auto-managed by webdriver-manager)
 
 ⚡ Key Technologies
+
     Frontend: Streamlit
     
     Backend: Python
@@ -93,6 +97,7 @@ Run the app:
     Similarity Matching: TF-IDF + Cosine Similarity (Scikit-learn)
 
 📝 Notes
+
     Make sure your Chrome browser and webdriver-manager ChromeDriver versions are compatible.
     
     The tender scraping is designed for the GeM All Bids page layout.
@@ -103,8 +108,11 @@ Run the app:
 Feel free to open an Issue or Pull Request if you have suggestions or improvements.
 
 📧 Contact
-Developer: Giri Prasath
-Email: giriprasathm1608@gmail.com
-GitHub: GiriPrasath1608
+
+    Developer: Giri Prasath
+    
+    Email: giriprasathm1608@gmail.com
+    
+    GitHub: GiriPrasath1608
 
 ⭐ Thank you for checking out the Tender App!
