@@ -6,17 +6,17 @@ A Streamlit-based web application for managing tender opportunities.
 It allows companies to register, view their profiles, scrape tenders from the Government e-Marketplace (GeM), and find tenders that best match their previous work experience.
 
 🔥 Features
-User Management:
-
-Create new users with company details.
-
-View profile information.
-
-Tender Scraping:
-
-Scrape latest tenders (bids) from GeM - All Bids page.
-
-Save the tenders into a local CSV file.
+    User Management:
+    
+    Create new users with company details.
+    
+    View profile information.
+    
+    Tender Scraping:
+    
+    Scrape latest tenders (bids) from GeM - All Bids page.
+    
+    Save the tenders into a local CSV file.
 
 Tender Matching:
 
@@ -28,18 +28,18 @@ Tender Search:
 
 Search tenders by Bid Number or Department.
 
-📂 Folder Structure
-bash
-Copy
-Edit
-Tender App/
-│
-├── data/
-│   ├── User.csv              # Stores registered user details
-│   └── All_Bid_List.csv       # Stores all scraped tender data
-│
-├── tender_app.py              # Main Streamlit app
-└── README.md                  # Project documentation (this file)
+    📂 Folder Structure
+    bash
+    Copy
+    Edit
+    Tender App/
+    │
+    ├── data/
+    │   ├── User.csv              # Stores registered user details
+    │   └── All_Bid_List.csv       # Stores all scraped tender data
+    │
+    ├── tender_app.py              # Main Streamlit app
+    └── README.md                  # Project documentation (this file)
 
 🛠️ Installation
 Clone the repository:
