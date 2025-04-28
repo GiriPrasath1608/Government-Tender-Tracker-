@@ -172,7 +172,7 @@ elif st.session_state.page == "profile":
                     try:
                         # Wait until next button is clickable
                         next_button = WebDriverWait(driver, 10).until(
-                            EC.element_to_be_clickable((By.LINK_TEXT, 'Next'))  # 🔵 <<< Change if needed
+                            EC.element_to_be_clickable((By.LINK_TEXT, 'Next'))  
                         )
                         next_button.click()
                         time.sleep(2)  # wait a bit for page to load
