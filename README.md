@@ -1,6 +1,7 @@
 # Government-Tender-Tracker-
 
 Tender App 📑
+
 A Streamlit-based web application for managing tender opportunities.
 It allows companies to register, view their profiles, scrape tenders from the Government e-Marketplace (GeM), and find tenders that best match their previous work experience.
 
